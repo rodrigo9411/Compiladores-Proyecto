@@ -1,4 +1,4 @@
-# Compiladores-Proyecto
+# Compiladores Proyecto
 Proyecto Compiladores 2021
 
 # Integrantes
