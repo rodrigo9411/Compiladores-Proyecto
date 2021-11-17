@@ -1,0 +1,1 @@
+id_1_2 : _hola_mundo '=' ;
